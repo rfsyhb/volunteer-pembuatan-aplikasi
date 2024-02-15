@@ -7,4 +7,4 @@ Silakan gunakan format berikut:<br>
 
 Berikut adalah daftar Volunter yang diterima:
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
-* Rafi Syihab, [LinkedIn](https://www.linkedin.com/in/rafi-syihab-9020a51a0).
+* Rafi Syihab, [Linkedin](https://www.linkedin.com/in/rafi-syihab-9020a51a0).
